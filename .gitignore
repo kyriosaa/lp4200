@@ -1,0 +1,7 @@
+History/
+*.~*
+*.__Previews
+__Previews/
+*.OutJob
+*.SchDocPreview
+*.PcbDocPreview
