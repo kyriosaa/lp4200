@@ -1,7 +1,38 @@
+# history and backup
 History/
 *.~*
 *.__Previews
 __Previews/
+
+# preview
 *.OutJob
 *.SchDocPreview
 *.PcbDocPreview
+
+# gen part import
+*.dfm
+*.pas
+*Import*.PrjScr
+
+# gen logs and outputs
+Project Logs for */
+*.LOG
+*.log
+
+# manufacturing files
+Project Outputs for */
+*.gbr
+*.gbo
+*.gbs
+*.gts
+*.gto
+*.drl
+*.nc
+
+# temp and cache
+*.tmp
+*.bak
+*.old
+*.orig
+
+Free Documents/
