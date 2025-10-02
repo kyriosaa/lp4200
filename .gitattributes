@@ -1,0 +1,5 @@
+*.html linguist-detectable=false
+
+*.pas linguist-vendored=true
+*.pp linguist-vendored=true
+*.p linguist-vendored=true
