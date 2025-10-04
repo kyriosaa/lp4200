@@ -4,7 +4,38 @@
 [![PCB](https://img.shields.io/badge/PCB-008C4A?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmZmZmIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGlkPSJDaXJjdWl0LUJvYXJkLS1TdHJlYW1saW5lLUx1Y2lkZSIgaGVpZ2h0PSIyNCIgd2lkdGg9IjI0Ij4KICA8ZGVzYz4KICAgIENpcmN1aXQgQm9hcmQgU3RyZWFtbGluZSBJY29uOiBodHRwczovL3N0cmVhbWxpbmVocS5jb20KICA8L2Rlc2M+CiAgPHBhdGggZD0iTTUgM2gxNHMyIDAgMiAydjE0czAgMiAtMiAySDVzLTIgMCAtMiAtMlY1czAgLTIgMiAtMiIgc3Ryb2tlLXdpZHRoPSIyIj48L3BhdGg+CiAgPHBhdGggZD0iTTExIDloNGEyIDIgMCAwIDAgMiAtMlYzIiBzdHJva2Utd2lkdGg9IjIiPjwvcGF0aD4KICA8cGF0aCBkPSJNNyA5YTIgMiAwIDEgMCA0IDAgMiAyIDAgMSAwIC00IDAiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogIDxwYXRoIGQ9Ik03IDIxdi00YTIgMiAwIDAgMSAyIC0yaDQiIHN0cm9rZS13aWR0aD0iMiI+PC9wYXRoPgogIDxwYXRoIGQ9Ik0xMyAxNWEyIDIgMCAxIDAgNCAwIDIgMiAwIDEgMCAtNCAwIiBzdHJva2Utd2lkdGg9IjIiPjwvcGF0aD4KPC9zdmc+&logoColor=white)]()
 [![Altium](https://img.shields.io/badge/Altium_Designer-A5915F?style=flat&logo=altiumdesigner&logoColor=white)](https://www.altium.com/)
 
+A compact lithium polymer (LiPo) battery charging board with integrated safety features. For charging single-cell LiPo batteries used in IoT devices.
+
+## Features
+
+- **Single-cell LiPo charging** - Made for 3.7V lithium polymer batteries
+- **Linear charging architecture** - Simple, reliable charging with minimal external components
+- **Integrated safety features** - Over-current, over-voltage, and thermal protection
+- **Compact form factor** - Space-efficient design for embedded applications
+- **Status indication** - LED indicators for charging status
+- **USB input** - Standard micro-USB or USB-C connector for power input
+
+## Specifications
+
+- **Input Voltage**: 5V ±5% (USB powered)
+- **Charging Current**: Programmable via external resistor
+- **Battery Voltage**: 3.7V nominal (4.2V max)
+- **Charging Method**: Constant current / constant voltage (CC/CV)
+- **Operating Temperature**: -40°C to +85°C
+- **Board Dimensions**: 51 x 57 mm
+
+## Images
+
+Schematic
 <img src="images/lp4200_sch.png">
+
+PCB Layout
 <img src="images/lp4200_pcb_layout.png">
+
+3D Model
 <img src="images/lp4200_pcb_model1.png">
 <img src="images/lp4200_pcb_model2.png">
+
+Assembly Drawing
+<img src="images/lp4200_assembly_dwg1.png">
+<img src="images/lp4200_assembly_dwg2.png">
