@@ -5,7 +5,6 @@ History/
 __Previews/
 
 # preview
-*.OutJob
 *.SchDocPreview
 *.PcbDocPreview
 
