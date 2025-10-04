@@ -1,21 +1,14 @@
 *.html linguist-detectable=false
-
 *.pas linguist-vendored=true
 *.pp linguist-vendored=true
 *.p linguist-vendored=true
-
-# Altium Designer project files
 *.PrjPcb linguist-language=XML
 *.PrjPcbStructure linguist-language=XML
 *.PrjPcbVariants linguist-language=XML
-
-# Altium schematic and PCB files (binary, mark as vendored)
 *.SchDoc linguist-vendored=true
 *.PcbDoc linguist-vendored=true
 *.SchLib linguist-vendored=true
 *.PcbLib linguist-vendored=true
-
-# Other Altium files
 *.OutJob linguist-language=XML
 *.SchDocPreview linguist-vendored=true
 *.PcbDocPreview linguist-vendored=true
