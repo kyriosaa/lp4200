@@ -17,12 +17,12 @@ A compact lithium polymer (LiPo) battery charging board with integrated safety f
 
 ## Specifications
 
-- **Input Voltage**: 5V ±5% (USB powered)
-- **Charging Current**: Programmable via external resistor
-- **Battery Voltage**: 3.7V nominal (4.2V max)
-- **Charging Method**: Constant current / constant voltage (CC/CV)
-- **Operating Temperature**: -40°C to +85°C
-- **Board Dimensions**: 51 x 57 mm
+- **Input Voltage** - 5V ±5% (USB powered)
+- **Charging Current** - Programmable via external resistor
+- **Battery Voltage** - 3.7V nominal (4.2V max)
+- **Charging Method** - Constant current / constant voltage (CC/CV)
+- **Operating Temperature** - -40°C to +85°C
+- **Board Dimensions** - 51 x 57 mm
 
 ## Images
 
